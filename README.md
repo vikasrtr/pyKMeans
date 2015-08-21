@@ -1,8 +1,13 @@
 # K-Means
 
-A minimal python implementation of k-means clustering algortihm
+A minimal python implementation of k-means clustering algortihm.
 
-The code accompanies a detailed blog post on my [blog here](https://vikasrtr.github.io).
+![KMeans Demo](https://github.com/vikasrtr/pyKMeans/raw/master/clustering_example.png)
+
+It also includes a basic demo on two-dimensional data (borrowed from Andrew Ng's course).
+
+# Usage
+Check out `demo.py` for simple usage.
 
 ## Requirements
  - Numpy

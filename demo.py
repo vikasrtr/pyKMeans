@@ -23,4 +23,5 @@ for i in range(k):
     x = X[np.where(c == i)[0]]
     plt.scatter(x[:, 0], x[:, 1], color=colors[i])
 
+# plt.savefig('clustering_example.png')
 plt.show()
